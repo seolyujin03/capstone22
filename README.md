@@ -23,7 +23,9 @@
 - 상세페이지 구성과 상품은 차후 회의를 통해 결정하기로 함
 <br>
 <br>
+
 (송강 사진을 참고하여 인터뷰용 사진처럼 깔끔한 느낌으로 작업)
+
 ![KakaoTalk_20220427_153230216](https://user-images.githubusercontent.com/100750103/165679029-a1619d7b-8e2b-47bd-adf2-e540652135a9.png)
 
 ---
@@ -31,10 +33,13 @@
 [ 04월 20일 ]
 
 1. 메인페이지 상품분류에 들어갈 이미지 그리기
+
 <br />
 
 ![main](https://user-images.githubusercontent.com/100750103/165677591-0b78689a-23d3-44e0-abcc-e530f95dbdc0.png)
 
+<br>
+<br>
 
 ---
 
